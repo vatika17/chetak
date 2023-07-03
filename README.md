@@ -41,7 +41,7 @@ pandas<br>
 matplotlib<br>
 scikit-learn<br>
 seaborn<br>
-## To run chetak
+## Commands to run chetak
 ~~~~
 Creating the environment:
 
