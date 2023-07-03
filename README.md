@@ -28,3 +28,21 @@ The idea is to create a cloud-based AI platform that integrates data from variou
 
 11.Security Measures: The system would incorporate robust security measures to protect sensitive data and ensure compliance with privacy regulations. This may include encryption, access controls, and data anonymization techniques.
 <br>
+## Dependencies
+numpy<br>
+pandas<br>
+matplotlib<br>
+scikit-learn<br>
+seaborn<br>
+## To run chetak
+~~~~
+$pip install numpy
+$pip install pandas
+$pip install matplotlib
+$pip install scikit-learn
+$pip install seaborn
+$git clone https://github.com/vatika17/chetak.git
+$cd chetak
+$jupyter notebook
+Access each notebook and run each cells.
+~~~~
