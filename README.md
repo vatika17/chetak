@@ -38,11 +38,14 @@ seaborn<br>
 ## To run chetak
 ~~~~
 Creating the environment:
+
 $bash Anaconda-latest-Linux-x86_64.sh
 $conda create -name env1
 $conda activate env1
 $conda install jupyter
+
 Installing Dependencies:
+
 $sudo apt install python3
 $sudo apt install python3-pip
 $pip install numpy
