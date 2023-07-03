@@ -1,11 +1,11 @@
 # chetak - A Natural Disaster Prediction model
-##Problem Statement
+## Problem Statement
 Natural disasters pose a significant threat to human lives, infrastructure, and the environment. Timely prediction and identification of these disasters are crucial for effective disaster management and mitigation. However, existing prediction systems often lack accuracy, leading to inadequate preparedness and response efforts. Therefore, there is a pressing need to develop an advanced natural disaster prediction system that leverages AI algorithms and utilizes environmental data to provide accurate and timely warnings for disasters such as hurricanes, floods, wildfires, and earthquakes. This system aims to benefit various stakeholders, including government agencies, emergency management organizations, first responders, and affected communities, by enhancing their ability to prepare for and respond to natural disasters. By improving prediction accuracy and enabling proactive measures, the system aims to minimize the loss of life, damage to infrastructure, and environmental impact caused by natural disasters.
 <br>
-##Solution Strategy
+## Solution Strategy
 The idea is to create a cloud-based AI platform that integrates data from various sources, applies machine learning algorithms for natural disaster prediction, and provides real-time alerts and visualizations. The platform would include components for data ingestion, preprocessing, and feature engineering. It would also have a repository of machine learning models specific to each type of natural disaster. The platform would allow for model training and optimization, real-time prediction and alerting, and a user-friendly interface with interactive visualizations. The scalable infrastructure and security measures would ensure the platform's efficiency, reliability, and protection of sensitive data.
 <br>
-##Methodology
+## Methodology
 1.Data Collection: Gather relevant environmental data from various sources, such as weather stations, satellites, seismic sensors, river gauges, and other monitoring devices. This data could include atmospheric conditions (temperature, humidity, pressure), rainfall measurements, wind patterns, river levels, seismic activity, and other relevant parameters.
 
 2.Data Preprocessing: Clean and preprocess the collected data to ensure its quality and suitability for analysis. This step involves handling missing values, correcting anomalies, and normalizing the data to a consistent format.
