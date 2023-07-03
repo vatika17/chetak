@@ -41,6 +41,10 @@ pandas<br>
 matplotlib<br>
 scikit-learn<br>
 seaborn<br>
+tensorflow<br>
+os<br>
+opencv<br>
+albumentations<br>
 ## Commands to run chetak
 ~~~~
 Creating the environment:
@@ -59,6 +63,9 @@ $pip install pandas
 $pip install matplotlib
 $pip install scikit-learn
 $pip install seaborn
+$pip install tensorflow
+$pip install albumentations
+$pip install opencv-python
 $git clone https://github.com/vatika17/chetak.git
 $cd chetak
 $jupyter notebook
