@@ -2,9 +2,8 @@
 ## Contents
 1. Problem Statement<br>
 2. Solution Strategy<br>
-3. Methodology<br>
-4. Dependencies<br>
-5. Commands to run chetak<br>
+3. Dependencies<br>
+4. Commands to run chetak<br>
 ## Problem Statement
 Natural disasters pose a significant threat to human lives, infrastructure, and the environment. Timely prediction and identification of these disasters are crucial for effective disaster management and mitigation. However, existing prediction systems often lack accuracy, leading to inadequate preparedness and response efforts. Therefore, there is a pressing need to develop an advanced natural disaster prediction system that leverages AI algorithms and utilizes environmental data to provide accurate and timely warnings for disasters such as hurricanes, floods, wildfires, and earthquakes. This system aims to benefit various stakeholders, including government agencies, emergency management organizations, first responders, and affected communities, by enhancing their ability to prepare for and respond to natural disasters. By improving prediction accuracy and enabling proactive measures, the system aims to minimize the loss of life, damage to infrastructure, and environmental impact caused by natural disasters.
 <br>
