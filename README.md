@@ -44,9 +44,13 @@ $pip install albumentations
 $pip install opencv-python
 $git clone https://github.com/vatika17/chetak.git
 $cd chetak
+
 For Flood or Wildfire:
+
 $jupyter notebook
 Access each notebook and run each cells.
+
 For Earthquake:
+
 $python earthquake.py
 ~~~~
